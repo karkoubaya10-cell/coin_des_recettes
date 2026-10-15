@@ -36,14 +36,19 @@ Le projet a pour objectif de permettre aux utilisateurs de découvrir, publier e
 
 Le projet suit l'architecture **MVC (Model - View - Controller)** de Laravel.
 
-```text
-app/
-bootstrap/
-config/
-database/
-lang/
-public/
-resources/
-routes/
-storage/
-tests/
+## Captures d'écran
+
+### Page d'accueil
+![Page d'accueil](accueil.png)
+
+### Statistiques
+![Statistiques](statiqtiques.png)
+
+### Détails d'une recette
+![Détails d'une recette](recette.png)
+
+### Modifier une recette
+![Modifier une recette](modifier_recette.png)
+
+### Ajouter une recette
+![Ajouter une recette](ajouter_recette.png)
