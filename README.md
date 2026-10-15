@@ -42,7 +42,7 @@ Le projet suit l'architecture **MVC (Model - View - Controller)** de Laravel.
 ![Page d'accueil](accueil.png)
 
 ### Statistiques
-![Statistiques](statiqtiques.png)
+![Statistiques](statistiques.png)
 
 ### Détails d'une recette
 ![Détails d'une recette](recette.png)
